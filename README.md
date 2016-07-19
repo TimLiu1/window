@@ -52,13 +52,13 @@ ngularJS提供的$window 服务
 现在如果点击这个按钮，会跳窗展现出greet变量的默认值，但是如果我们改变输入框的
 内容，跳窗的内容也会改变。
 
-现在开始运行这个项目
-        1、在浏览器中看这个项目<br>
-![alt text](/image/1.png "one") 
-        2、点击greetings跳窗<br>
-![alt text](/image/2.png "two") 
-        3、修改输入框的值然后跳窗<br>
-![alt text](/image/3.png "three") 
+现在开始运行这个项目<br>
+1、在浏览器中看这个项目<br>
+![alt text](/image/1.png "one") <br>
+2、点击greetings跳窗<br>
+![alt text](/image/2.png "two") <br>
+3、修改输入框的值然后跳窗<br>
+![alt text](/image/3.png "three") <br>
 
 整个项目源代码以及angularjs在我的github账号上
 
