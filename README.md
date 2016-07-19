@@ -53,11 +53,11 @@ ngularJS提供的$window 服务
 内容，跳窗的内容也会改变。
 
 现在开始运行这个项目
-        1、在浏览器中看这个项目
+        1、在浏览器中看这个项目<br>
 ![alt text](/image/1.png "one") 
-        2、点击greetings跳窗
+        2、点击greetings跳窗<br>
 ![alt text](/image/2.png "two") 
-        3、修改输入框的值然后跳窗
+        3、修改输入框的值然后跳窗<br>
 ![alt text](/image/3.png "three") 
 
 整个项目源代码以及angularjs在我的github账号上
