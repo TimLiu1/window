@@ -60,7 +60,7 @@ ngularJS提供的$window 服务
 3、修改输入框的值然后跳窗<br>
 ![alt text](/image/3.png "three") <br>
 
-整个项目源代码以及angularjs在我的github账号上
+整个项目源代码以及angularjs在我的[github](https://github.com/TimLiu1/window)账号上
 
 
 
