@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html ng-app xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<script src="./angular-1.0.1.min.js"></script>
+
+</head>
+
+<body>
+    <form id="form">
+        <div ng-app>
+            <div ng-controller="func">
+                <input type="text" ng-model="greet" />
+                <input type="button" ng-click="greetFunc(greet)" value="Greetings"/>
+            </div>
+        </div>
+    </form>
+</body>
+
+    <script>
+        function func($scope, $window, $location) {
+            $scope.path = $location.host();
+            $scope.greet = 'TimLiu';
+            $scope.greetFunc = function (greet) {
+                $window.alert($scope.greet);
+            };
+        }
+    </script>
+
+
+
+</html>
+
+
+
+
